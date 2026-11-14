@@ -17,7 +17,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.message.mobile",
+      "package_name": "com.message.twa",
       "sha256_cert_fingerprints": [
         "42:43:E2:A6:73:A1:5D:D7:5C:30:B9:09:BA:7C:23:D1:64:3E:2E:E5:59:03:0B:8A:9C:ED:E8:65:E5:E5:12:EC"
       ]
